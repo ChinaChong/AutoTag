@@ -4,7 +4,7 @@
 //
 //  Created by chinachong on 16/6/3.
 //  Copyright © 2016年 chinachong. All rights reserved.
-//
+//  ==> 这是1.2版本
 
 #import <UIKit/UIKit.h>
 
