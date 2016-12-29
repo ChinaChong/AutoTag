@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'AutoTag'
-  s.version  = '1.2'
+  s.version  = '1.3'
   s.license  = 'MIT'
   s.summary  = 'An atuo fit size tagView on iOS.'
   s.homepage = 'https://github.com/ChinaChong/AutoTag'
